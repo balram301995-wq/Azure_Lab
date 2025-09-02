@@ -1,1 +1,5 @@
-
+with:
+  client-id: <your-managed-identity-client-id>
+  tenant-id: <your-tenant-id>
+  subscription-id: <your-subscription-id>
+  enable-AzPSSession: true
