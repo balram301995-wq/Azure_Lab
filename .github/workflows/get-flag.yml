@@ -12,7 +12,7 @@ jobs:
       - name: Azure login
         uses: azure/login@v1
         with:
-          client-id: 0efda73a-9cb7-4408-9db5-8bcd0a99ecf6
+          client-id: 302df515-ba63-4dbe-a7fd-6c05a543f1d5
           tenant-id: fdd066e1-ee37-49bc-b08f-d0e152119b04
           subscription-id: dcc6c69d-9c95-4b19-a54f-534937316c51
           enable-AzPSSession: true
